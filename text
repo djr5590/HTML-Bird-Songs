@@ -1,0 +1,15 @@
+Bonus
+As a bonus idea, try adding another bird page! Here's a list of what you will need:
+
+Find a sound clip of a birdsong we don't already have (try out SoundBible's Birds Page to start).
+Download the sound clip(s) you found and then move them into the assets/sounds folder.
+Copy the link to the page you downloaded the sound from so you can give credit!
+Search Google images for an image of the bird you pick (make sure you set it to Creative Commons Licenses).
+Download the image you found and then add it to the assets/images folder.
+Copy the link to the page you downloaded the image from so you can give credit!
+Create a new HTML page for the bird you picked.
+Add the navbar from the other pages and update it with the new bird you chose.
+Add the image and sounds with a layout similar to the other bird pages.
+Make links that credit the image and sound sources below the sound and image.
+
+When you're done, you can check your answers against the bonus solution code, although we may have chosen a different bird than you!
